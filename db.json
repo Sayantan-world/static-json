@@ -1,0 +1,9 @@
+{
+  "registration": "ABC123456789",
+  "model": "Apache",
+  "model_no": "RR 310",
+  "temperature": "50",
+  "road_spd": "50",
+  "year": "2007",
+  "rpm": "2500"
+}
